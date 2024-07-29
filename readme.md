@@ -2,7 +2,6 @@
 
 Built using modern technologies: node.js, express, mongoDB, mongoose.
 
-# User Authentication System
 This project implements a comprehensive user authentication system using Node.js with Express and MongoDB. It provides secure user registration, login, and password reset functionalities, along with advanced security features and email capabilities.
 
 ## Features
